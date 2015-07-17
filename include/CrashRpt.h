@@ -67,7 +67,7 @@ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 //! Current CrashRpt version
 // AS: Now set through CMake as compile definition, so it is only at one place
-// #define CRASHRPT_VER 1301
+#define CRASHRPT_VER 1301
 
 /*! \defgroup CrashRptAPI CrashRpt Functions */
 /*! \defgroup DeprecatedAPI Obsolete Functions */

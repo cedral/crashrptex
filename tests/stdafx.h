@@ -95,6 +95,7 @@ extern CAppModule _Module;
 #include <vector>
 #include <stdio.h>
 #include <conio.h>
+#include <assert.h>
 
 #define _WTL_USE_CSTRING
 #include <atlmisc.h>
